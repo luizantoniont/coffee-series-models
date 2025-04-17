@@ -1,3 +1,32 @@
+# Previsão do Preço do Café com Séries Temporais 
+
+Este projeto tem como objetivo desenvolver um modelo preditivo para estimar os preços futuros do café com base em dados históricos. Utilizando técnicas de séries temporais, o modelo busca auxiliar produtores, comerciantes e analistas do setor cafeeiro na tomada de decisões mais assertivas e estratégicas.
+
+Objetivo
+
+Prever o preço do café para os próximos períodos utilizando modelos estatísticos e de machine learning aplicados a séries temporais, como ARIMA, Prophet e LSTM.
+
+Fonte dos Dados
+
+Os dados utilizados neste projeto foram coletados do Banco Mundial.
+
+Metodologia
+
+Compreensão do Negócio
+
+Compreensão dos Dados
+
+Preparação dos Dados
+
+Modelagem
+
+Avaliação
+
+Implantação
+
+Resultados
+
+
 # coffee-series
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
