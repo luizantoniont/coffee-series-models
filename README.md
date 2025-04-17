@@ -1,4 +1,4 @@
-# Previsão do Preço do Café com Séries Temporais ☕
+# Previsão do Preço do Café com Séries Temporais 
 
 Este projeto tem como objetivo desenvolver um modelo preditivo para estimar os preços futuros do café com base em dados históricos. Utilizando técnicas de séries temporais, o modelo busca auxiliar produtores, comerciantes e analistas do setor cafeeiro na tomada de decisões mais assertivas e estratégicas.
 
