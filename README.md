@@ -12,17 +12,17 @@ Os dados utilizados neste projeto foram coletados do Banco Mundial.
 
 Metodologia
 
-    Compreensão do Negócio
+Compreensão do Negócio
 
-    Compreensão dos Dados
+Compreensão dos Dados
 
-    Preparação dos Dados
+Preparação dos Dados
 
-    Modelagem
+Modelagem
 
-    Avaliação
+Avaliação
 
-    Implantação
+Implantação
 
 Resultados
 
